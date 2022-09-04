@@ -26,3 +26,5 @@ What kind of emotions does the text evoke? Can we empathize with others? How doe
 Things to reflect upon further:
 - Can I potentially collaborate with Health & Wellness or REACH with this? What about my classes? Can this be added to any of my class curriculums?
 
+![](/media/a5c.JPG)
+![](/media/common-room.HEIC)
