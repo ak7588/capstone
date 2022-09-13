@@ -1,5 +1,47 @@
 # Week 1
 
+## Sep 10-13
+
+Prototype 2:
+
+**Open-Sourcing Capstone!**(kind of)
+
+![](/media/amina.JPG)
+![](/media/board-1.JPG)
+
+After observing not-so-much participation with the Prototype 1 (even from my own roommates!), I've decided to try a different approach. What makes a fun interactive activity? I asked this question on a public white-board near the IM lounge in the Arts Center. Near this space, I've also placed a version of my previous prompt -- How are you feeling today? -- instead of "What's been a highlight/challenge of your week?"
+
+Soon as the audience has identified their emotion, it’s easier to elaborate on it, providing better context and info for savoring. This is “preparation” / “nudging” for the main experience…
+
+Now, jokes are funny, but my project isn’t about humor. So the concept of *fun*, in this sense, is better referred to as “engaging”? “interactive?” “captivating?” — but these are now philosophical experiences…what is a **captivating** experience?
+
+Topics to explore:
+
+- social-emotional learning
+- [Immersive experience](https://www.google.com/search?q=dreamscapes+slc&sxsrf=ALiCzsZxvdPPNjzHhS6AUUigKql1lT7oQQ:1662802624852&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvpKS-9on6AhVDy6QKHXw0BTYQ_AUoAXoECAIQAw&biw=1440&bih=690&dpr=2) - from places like Meow Wolf or other theme parks
+
+My notes:
+## **what is fun?**
+
+- **emojis**
+- notion
+- habit tracker
+- texting
+- public displays
+- body interactions
+- drawing
+- pets
+- Arduino buttons
+- electronics input/output
+- music
+- symbols
+- games
+- **seeing aesthetic animations**
+- **following a storyline**
+- forest app
+
+# Week 1
+
 ## Sep 4
 
 Prototype 1:
