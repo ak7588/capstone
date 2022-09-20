@@ -1,4 +1,60 @@
-# Week 1
+# Week 3-4
+
+## Capstone Ideation Progress
+
+Date: Sep 18
+
+→ Root project on the experience itself. perhaps not so much on storytelling and learning. learn by doing. not learn by learning.
+
+→ Website: bottles and shelves. clicking on bottles. it opens up. you read the story. perhaps the story is voice-narrated. the story is about opening up and vulnerability. a childhood memory. a happy moment. an intimate moment. a sad moment. letting go. sharing. amplifying. savoring.
+
+→ What do I want to foster post the experience? Sense of relief. Sense of belonging. Joy. Ease. Betterment. Love. Sharing. Feeling something from reading the posts of others. Empathizing. Being compassionate. **Responding?** Dialogue? Interactions with each other?
+
+Idea: what if there is a physical component to it as well? after completing the first stage? Like a small room in which there are the same bottles with the main note + any of the responses from the audience. How would that change the feel of the experience?
+
+Reflectons on IM and artist/work journey:
+
+→ My journey to IM has not been linear. I took classes from different majors here and there, but always had this passion for something not related to one particular theme. I liked design, colors, and was decent with STEM, and decided to try IM because I’ve heard it combined all of those things. It was love at first sight. From the very first class of Intro to IM, I was very much hooked into the process. Although it happened more intuitively at first, I think now I begin to realize why. I have always struggled with expressing myself verbally to the outside world (personal reason to me), but with interactive experiences, it feels easier. **Colors, sounds, code, input and output** — all of these things are so multifaceted and create so much room for exploration. I love creating, exploring, researching — letting the process immerse me — and that brings joy. This is what IM does to me.
+→ What I like is problem-solving and intentional decision making
+
+## My life
+
+- I was born in Astana, Kazakhstan. Central Asia. Post-USSR. Post-colonialism. New country. Nomads. Islam.
+- I have lived in Astana, Tennessee, Abu Dhabi, New York, Los Angeles / California, London
+- I consider myself a **creative technologist.** Sometimes, a software engineer, experience designer, educator, VR programmer, HCI professional, researcher.
+- I studied IM with coursework in computer engineering and math.
+- I was first introduced to art at elementary school, but more informally, I was introduced to web-design and programming (unknowingly) as a teenager when I was exploring the idea of having and curating an online web page. This was later dropped as any career idea until NYUAD, where I found that I can combine art and technology — and many other things — for my enjoyment and **greater good**.
+    - Elaborate on this idea of social impact.
+- Major obstacles — speech impediment. Growing up in Central Asia. Learning to navigate non-inclusive world before finding more belonging and acceptance elsewhere.
+
+## My art
+
+- Themes present in artwork — emotional education, VR, empathy, compassion — trying not to limit myself here. Perhaps many more, just need to dig and reflect deeper. Expression!
+    - education, psychology, social good in my works. Fun interactive technologies. Games.
+- What is unique about my technique is that I express myself and my background while also creating tools for others to express themselves. I like to explore the themes of education, psychology, social good in my works. Fun interactive technologies. Games.
+- Topic that I want to convey to my users — empathy, compassion, reflection and understanding, self-expression, emotional education. I want to make experiences that are inclusive and accessible, too.
+- The first thing people notice about my art — VR and empathy.
+
+## Accomplishments
+
+- Google scholarship
+- Internship with Goldman Sachs
+- Fellowship with TOM
+- Microsoft Learn + Women @ Dior
+- Multiple VR projects and research while at NYUAD — IM showcase
+- Media talks and interviews on Kazakhstani resources
+
+## Bio
+
+Amina is a creative technologist with professional experience in Kazakhstan, the United Arab Emirates, the United States, and the United Kingdom. Graduating from NYU Abu Dhabi with a B.A. in Interactive Media, Amina is interested in fostering learning experiences through her work with technology. She creates applications that teach empathy and compassion in virtual reality and is involved in research on inclusive and accessible human-computer interactions. Amina is also an experienced engineer who worked with companies like Goldman Sachs and imagiLabs as a web- and iOS-developer. Her projects are grounded in coding, design, robotics, and education.
+
+## Personal Statement
+
+Why am I doing what I am doing? Talk about growing up with a speech condition and my experiences with technology. What am I trying to achieve though my career? Why so? Why now? Why me? 
+
+In my work, I explore themes of empathy and compassion nurtured through technology. Expressing myself was a challenge when I was growing up, and my academic career is centered around that. I want to create products that are not just beautiful, fun, and engaging — I want to intentionally craft experiences that are meaningful and are bigger than myself.
+
+# Week 2-3
 
 ## Sep 10-13
 
