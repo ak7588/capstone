@@ -12,12 +12,12 @@ Date: Sep 18
 
 Idea: what if there is a physical component to it as well? after completing the first stage? Like a small room in which there are the same bottles with the main note + any of the responses from the audience. How would that change the feel of the experience?
 
-Reflectons on IM and artist/work journey:
+## Reflectons on IM and artist/work journey:
 
 → My journey to IM has not been linear. I took classes from different majors here and there, but always had this passion for something not related to one particular theme. I liked design, colors, and was decent with STEM, and decided to try IM because I’ve heard it combined all of those things. It was love at first sight. From the very first class of Intro to IM, I was very much hooked into the process. Although it happened more intuitively at first, I think now I begin to realize why. I have always struggled with expressing myself verbally to the outside world (personal reason to me), but with interactive experiences, it feels easier. **Colors, sounds, code, input and output** — all of these things are so multifaceted and create so much room for exploration. I love creating, exploring, researching — letting the process immerse me — and that brings joy. This is what IM does to me.
 → What I like is problem-solving and intentional decision making
 
-## My life
+### My life
 
 - I was born in Astana, Kazakhstan. Central Asia. Post-USSR. Post-colonialism. New country. Nomads. Islam.
 - I have lived in Astana, Tennessee, Abu Dhabi, New York, Los Angeles / California, London
@@ -27,7 +27,7 @@ Reflectons on IM and artist/work journey:
     - Elaborate on this idea of social impact.
 - Major obstacles — speech impediment. Growing up in Central Asia. Learning to navigate non-inclusive world before finding more belonging and acceptance elsewhere.
 
-## My art
+### My "art"
 
 - Themes present in artwork — emotional education, VR, empathy, compassion — trying not to limit myself here. Perhaps many more, just need to dig and reflect deeper. Expression!
     - education, psychology, social good in my works. Fun interactive technologies. Games.
@@ -35,7 +35,7 @@ Reflectons on IM and artist/work journey:
 - Topic that I want to convey to my users — empathy, compassion, reflection and understanding, self-expression, emotional education. I want to make experiences that are inclusive and accessible, too.
 - The first thing people notice about my art — VR and empathy.
 
-## Accomplishments
+### Accomplishments
 
 - Google scholarship
 - Internship with Goldman Sachs
@@ -53,6 +53,8 @@ Amina is a creative technologist with professional experience in Kazakhstan, the
 Why am I doing what I am doing? Talk about growing up with a speech condition and my experiences with technology. What am I trying to achieve though my career? Why so? Why now? Why me? 
 
 In my work, I explore themes of empathy and compassion nurtured through technology. Expressing myself was a challenge when I was growing up, and my academic career is centered around that. I want to create products that are not just beautiful, fun, and engaging — I want to intentionally craft experiences that are meaningful and are bigger than myself.
+
+[to be continued...]
 
 # Week 2-3
 
