@@ -1,13 +1,13 @@
 `Write when it's impossible not to; make when you can't stay silent.`
-[bio](https://github.com/ak7588/capstone/blob/main/journal.md#bio)
-[personal statement](https://github.com/ak7588/capstone/blob/main/journal.md#personal-statement)
+- [bio](https://github.com/ak7588/capstone/blob/main/journal.md#bio)
+- [personal statement](https://github.com/ak7588/capstone/blob/main/journal.md#personal-statement)
 ---
 
 # Week 3-4
 
 Date Sep 21:
 
-Idea: political situation in the world since Jan 2022 [deadly and violent protests in Kazakhstan] had a huge impact on my life, and I can't stay silent about it. Central Asian politics is complex, and with the invasion of Ukraine and Kyrgyzstan, it is even more so...As a creator, how can I make space to honor people going through these experiences?
+Reflections: political situation in the world since Jan 2022 [deadly and violent protests in Kazakhstan] had a huge impact on my life, and I can't stay silent about it. Central Asian politics is complex, and with the invasion of Ukraine and Kyrgyzstan, it is even more so...As a creator, how can I make space to honor people going through these experiences?
 
 ## Capstone Ideation Progress
 
