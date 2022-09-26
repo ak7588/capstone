@@ -1,6 +1,5 @@
 `Write when it's impossible not to; make when you can't stay silent.`
-- [bio](https://github.com/ak7588/capstone/blob/main/journal.md#bio)
-- [personal statement](https://github.com/ak7588/capstone/blob/main/journal.md#personal-statement)
+
 ---
 
 # Week 5
@@ -14,6 +13,10 @@ The idea is that people see a poster (right now it's in a low-fidelity test vers
 I have tested it with one of my friends before leaving the posters in the Library. The feedback I got was that it's a bit unclear what they're supposed to do and how to scan. So I added extra steps in the instructions mannual on how to download the app and scan it. Perhaps the AR animation needs less text and slower speed for better comprehension. I can fix that in the next iteration should I choose to stick with AR.
 
 A good thing about Artivive is that I can track the metrics of people who scanned the image to see the AR pop-up. So if I leave the posters, I will be able to see how many people have scanned it, which is good for research and citing purposes.
+
+## Revisions
+- [bio](https://github.com/ak7588/capstone/blob/main/journal.md#bio)
+- [personal statement](https://github.com/ak7588/capstone/blob/main/journal.md#personal-statement)
 
 # Week 3-4
 
