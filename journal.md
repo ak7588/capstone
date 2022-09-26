@@ -3,6 +3,18 @@
 - [personal statement](https://github.com/ak7588/capstone/blob/main/journal.md#personal-statement)
 ---
 
+# Week 5
+
+## Making
+
+My project is about sharing stories and meaningful memories from life. Anonymously or not, with and through technology. This week I created an AR prototype of such a "story", a quote from Bradbury's Dandelion Wine. I've used app called Artivive and Canva to create the graphics + animations.
+
+The idea is that people see a poster (right now it's in a low-fidelity test version -- will probably be iterated over), see the instructions on how to scan it, and then scan it to see the hidden message.
+
+I have tested it with one of my friends before leaving the posters in the Library. The feedback I got was that it's a bit unclear what they're supposed to do and how to scan. So I added extra steps in the instructions mannual on how to download the app and scan it. Perhaps the AR animation needs less text and slower speed for better comprehension. I can fix that in the next iteration should I choose to stick with AR.
+
+A good thing about Artivive is that I can track the metrics of people who scanned the image to see the AR pop-up. So if I leave the posters, I will be able to see how many people have scanned it, which is good for research and citing purposes.
+
 # Week 3-4
 
 Date Sep 21:
