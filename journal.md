@@ -9,7 +9,8 @@
 My project is about sharing stories and meaningful memories from life. Anonymously or not, with and through technology. This week I created an AR prototype of such a "story", a quote from Bradbury's Dandelion Wine. I've used app called Artivive and Canva to create the graphics + animations.
 
 ![](/media/1.png)
-![](/media/instructions.JPEG)
+![](/media/2.png)
+![](/media/instructions.jpg)
 ![](/media/quote.gif)
 
 The idea is that people see a poster (right now it's in a low-fidelity test version -- will probably be iterated over), see the instructions on how to scan it, and then scan it to see the hidden message.
