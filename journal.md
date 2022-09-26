@@ -56,11 +56,22 @@ Amina is a creative technologist with professional experience in Kazakhstan, the
 
 ## Personal Statement
 
-Why am I doing what I am doing? Talk about growing up with a speech condition and my experiences with technology. What am I trying to achieve though my career? Why so? Why now? Why me? 
+Can technology help us live more mindfully? How can I, as a technology-maker, create experiences that foster spaces for empathy and compassion?
+
+These are the guiding questions in my work as a researcher, designer, and engineer.
+
+I grew up with a speech condition that affected my ability to socialize and communicate from the early age. I quickly learned that if I want to be heard, I must find a way to communicate differently. Through learning the art of self-expression, I have found my way to creative technology. 
+
+Expressing myself with alternative forms of communication media carried me to pursue my studies in Interactive Media at the New York University in Abu Dhabi and to finding my passion for technology design and making. From creating storytelling art projects to virtual reality games with code, I have learned to embrace my curiosity and life experiences to enable expression.
+
+Fostered empathy and compassion through my personal circumstance has opened up many professional opportunities to me. Aside from being a software engineer and a creative technologist, I like to work with disability communities across the globe to make accessible and open-source technology solutions for a better, more inclusive living. This is something I focused on as a 2021-2022 Tikkun Olam Makers Fellow in Abu Dhabi and New York City and want to continue doing throughout my education in the greater community.
+
+In addition, I have discovered that concepts of empathy, along with other frameworks used in positive psychology, run through most of my work. After reflecting on why that happens to be the case, I came to realize that I refuse to simply make technology for the sake of it. It needs to be intentional, and I see it at the intersection of education, technology, and expression.
+
+For me, expression comes in writing and sharing, too. Because my career has led me to live, learn, and work from different locations, I have a privilege of getting a greater perspective on inclusive education and workspaces across the globe. Born and raised in Kazakhstan, I went off to the United States and the United Arab Emirates as a student to learn more about inclusive education, and later to the United Kingdom to experience the accessible workspace culture. It is my honor to contribute to the world of diversity, equity and inclusion with my column on Women Rewriting the Code and share my learnings in hopes they will bring value and ease to people going through similar experiences. 
 
 In my work, I explore themes of empathy and compassion nurtured through technology. Expressing myself was a challenge when I was growing up, and my academic career is centered around that. I want to create products that are not just beautiful, fun, and engaging — I want to intentionally craft experiences that are meaningful and are bigger than myself.
 
-[to be continued...]
 
 # Week 2-3
 
