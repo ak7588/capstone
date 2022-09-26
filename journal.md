@@ -1,4 +1,7 @@
 `Write when it's impossible not to; make when you can't stay silent.`
+[bio](https://github.com/ak7588/capstone/blob/main/journal.md#bio)
+[personal statement](https://github.com/ak7588/capstone/blob/main/journal.md#personal-statement)
+---
 
 # Week 3-4
 
