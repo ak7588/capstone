@@ -1,6 +1,9 @@
 `Write when it's impossible not to; make when you can't stay silent.`
 
 ---
+# Week 6
+
+Find the midterm paper draft [here](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing).
 
 # Week 5
 
