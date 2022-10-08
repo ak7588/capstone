@@ -7,58 +7,7 @@
 
 As soon as I re-framed my Capstone to a *gamified* experience, the story that I was trying to tell finally came up!
 
-Narrative draft:
-
-Theme: Exploration of the inner-voice that each one of us has.
-
-**Part I. Intro.**
-[Sounds of fast movement, loud city, people talking. Blurry background -- one can't really see, just hear *the* voice]
--- The world moves so fast...You feel? (fragile tone to emphasize the feeling of overwhelm)
-Have you got some time to play? I can show you something if you join me... (loud sounds intensify)
-
-Interaction option: Press "Proceed"
-
-**Part II. New world**
-[Change in the scenery. Quiet and peaceful surroundings, nature. Emphasize/exaggerate transition]
--- Thank you ofr joining me today. My name is ... I know how busy things get and am glad you are here. I have moved us to a place of peace and security. What do you think? I will let you explore a little. When you're ready, feel free to come back and I will tell you more about the place.
-
-Interaction option: Wonder around, emphasize some elements for interaction.
-
-**Part III. The stories**
-[Notice a glowing piece of paper in the environment]
--- Oh that's something a person before you has left here. Wanna give it a read?
-
-Interaction option: Click on glowing/emphasized piece of paper.
-[The paper depicts one of my memories or journal entries :) Voice narrating the text on the paper when opening it]
-
-[After the narration finished with the story]
--- I find it quite poetic. How about you? I actually have some more of these if you explore around. You can give them a read.
-
-Interaction option: Press "Proceed" and click on the rest of the magically appeared papers.
-
-**Part IV. After reading the rest of the stories**
--- That's what I call a place of sacred. These are meaningful memories that my visitors left after coming here. I like to read them every once in a while...They feel...inspiring. I help my visitors find space and time to rest and slow down; space to appreciate more moments in life. It's easy to forget about these small moments when things are moving fast, don't you think?
-
-Interaction options: "I agree" or "I am good with finding time to appreciate things"
-
--- This space is where I keep these memories safe. They stay here, and I water them like plants (because good things take effort too). What if I told that you are, too, are capable of watering your own plants--your stories and memories? Don't believe me? I will help you try!
-
-**Part V. Leaving your own story**
-[Soft music plays to create a calm environment for journaling]
--- What has been a highlight of your week so far? (Or whatever timeline relevant)
-
-[After they've submitted the text]
--- Wow, that's a good one! Congrats on making it through the week! Now, what's been something difficult to navigate recently? Why is that?
-
-[After they've submitted the text]
-Thank you for sharing. This must have been uneasy to go through, but I am glad you are trying.
-
-The exercise that we've just completed is a mindful technique used in journaling (perhaps elaborate more here).
-
-I've really enjoyed our time together and will be excited to see you again if you need a moment of peace. Remember, now this experience is a part of you and you can return to it even on a busy day. See you later!
-
-**Part VI. Leaving your own story**
-[Back to a loud place. Now less blurry and can see what's happening around]
+Narrative draft open for feedback and comments: https://docs.google.com/document/d/1l4XEmVogyfyKl-tg2vu4GUgE0bVsHYSt_7lMLVtgoGM/edit?usp=sharing
 
 
 # Week 6
