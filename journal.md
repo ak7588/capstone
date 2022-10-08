@@ -9,6 +9,10 @@ As soon as I re-framed my Capstone to a *gamified* experience, the story that I 
 
 Narrative draft open for feedback and comments: https://docs.google.com/document/d/1l4XEmVogyfyKl-tg2vu4GUgE0bVsHYSt_7lMLVtgoGM/edit?usp=sharing
 
+What I am trying to do through the narrative is (1) foster an experience for reflection, (2) create an environment for expression, (3) show how each one of us is capable for using mindfulness techniques when things get hectic in life; how one can learn to slow down and help themselves navigate through a rough patch with the skills and experiences learned in the gamified immersive narrative.
+
+Because the story and the experience rely heavily on senses -- with audio and visuals -- it might be helpful to have it in VR as it allows for more immersive experiences. I also envision it on the web, but it might be less powerful in environmental storytelling.
+
 
 # Week 6
 
