@@ -3,6 +3,9 @@
 ---
 # Week 7
 
+## Revised Paper
+Find revised midterm paper [here](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing).
+
 ## Concept Updates
 
 As soon as I re-framed my Capstone to a *gamified* experience, the story that I was trying to tell finally came up!
