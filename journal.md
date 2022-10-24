@@ -18,9 +18,7 @@ Narrative draft open for feedback and comments: https://docs.google.com/document
 
 ### III. Implementation
 
-In this second half of the semester, it is good to start drafting the VR environment in Unity. I will plan this in more detail this week with Slavica. For now, I have done some brief research on assets and libraries I can use for implementing the narrative. At the end of the experience, there will be a call to action prompting the user to leave their own story. This can be done through knobs, pictures, or other VR-specific interactions. Some artists that I draw inspiration from for this specific part:
--
--
+In this second half of the semester, it is good to start drafting the VR environment in Unity. I will plan this in more detail this week with Slavica. For now, I have done some brief research on assets and libraries I can use for implementing the narrative. At the end of the experience, there will be a call to action prompting the user to leave their own story. This can be done through knobs, pictures, or other VR-specific interactions. Some artists that I draw inspiration from for this specific part: _ and _.
 
 # Week 7
 
