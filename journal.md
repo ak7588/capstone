@@ -1,6 +1,27 @@
 `Write when it's impossible not to; make when you can't stay silent.`
 
 ---
+
+# Week 8
+
+## Capstone Updates
+
+### I. Theory
+
+Over the break, I continued to read Jaron Lanier's "Dawn of the New Everything" to understand the theory and meaning behind VR. I know that I want to create a poetic immersive experience, and after discussing it with Prof Slavica, I am set to creating an interactive VR piece. I am also reading chapters on VR cinema from "Remediation: Understanding New Media".
+
+### II. The Story
+
+Just a few days before the break, I have come up with the narrative that I plan to convey in the VR experience. As discussed in class before, it will encompass a few therapeutic methods to bring up memories, savoring, and grounding. With these themes, I intend the experience to be a space for emotional learning happening as a by-product of user interactions.
+
+Narrative draft open for feedback and comments: https://docs.google.com/document/d/1l4XEmVogyfyKl-tg2vu4GUgE0bVsHYSt_7lMLVtgoGM/edit?usp=sharing
+
+### III. Implementation
+
+In this second half of the semester, it is good to start drafting the VR environment in Unity. I will plan this in more detail this week with Slavica. For now, I have done some brief research on assets and libraries I can use for implementing the narrative. At the end of the experience, there will be a call to action prompting the user to leave their own story. This can be done through knobs, pictures, or other VR-specific interactions. Some artists that I draw inspiration from for this specific part:
+-
+-
+
 # Week 7
 
 ## Revised Paper
