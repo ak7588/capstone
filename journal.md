@@ -30,11 +30,15 @@ In this second half of the semester, it is good to start drafting the VR environ
 - Typewriter assets for VR interactions;
 - "Beyond Pages", 1995, by Masaki Fujihata.
 
-### IV. Making
+### IV. Making Reflections
 
-Over the past 7 weeks of making and ideation, I have tried different technology and alternative media to make the capstone. Some of the reflections I had after those are ...
+Over the past 7 weeks of making and ideation, I have tried different technology and alternative media to make the capstone. I used pencil and paper, AR animations, and open-sourced the interactions to the public; by doing all of these variations of my project, I came to realize that I was focusing too much on the execution and not enough on the project and its message. What helped me narrow down the scope is this precise testing and writing inspiration paper for the class. After many conversations with Slavica, I was finally able to tap into my own artistic voice and come up with the story that I was intending to tell from the very beginning. This story is about using technology as a positive change and tool for learning and embracing mindfulness.
 
-TBA
+### V. Next Steps
+- Research Unity assets
+- Record story voice-overs
+- MVP with voice-overs story only
+- First Unity scenes
 
 # Week 7
 
