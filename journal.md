@@ -2,6 +2,12 @@
 
 ---
 
+# Going into Week 9
+
+## Pecha Kucha
+
+As a technologist and aspiring researcher, I am interested in creating projects that touch upon themes of time and transformation. Technology is rarely thought of the medium that can foster and promote mindfulness. In my Capstone, I am investigating how an immersive experience, namely a gamified virtual reality narrative, has capacity to teach mindfulness techniques and foster a poetic/cinematic experience, in which emotional education becomes a by-product of interaction and immersion. I intend to use immersive sound, storytelling, and elements of play to convey this theme.
+
 # Week 8
 
 ## Capstone Updates
