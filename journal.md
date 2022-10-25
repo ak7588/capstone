@@ -24,6 +24,12 @@ In this second half of the semester, it is good to start drafting the VR environ
 - Typewriter assets for VR interactions;
 - "Beyond Pages", 1995, by Masaki Fujihata.
 
+### IV. Making
+
+Over the past 7 weeks of making and ideation, I have tried different technology and alternative media to make the capstone. Some of the reflections I had after those are ...
+
+TBA
+
 # Week 7
 
 ## Revised Paper
