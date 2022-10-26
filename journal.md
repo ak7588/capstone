@@ -51,6 +51,7 @@ Unity assets:
 Weekend To-Do:
 1. MVP narration recording (important element of immersion and storytelling)
 2. Unity START!!!
+3. Can I save the data from each player and store it somewhere?
 
 # Week 7
 
