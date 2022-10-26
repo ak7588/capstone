@@ -40,6 +40,18 @@ Over the past 7 weeks of making and ideation, I have tried different technology 
 - MVP with voice-overs story only
 - First Unity scenes
 
+Unity assets:
+
+1. The Typewriter Effect https://assetstore.unity.com/packages/tools/gui/typewriter-ticker-71390
+2. Show text/UI on trigger https://youtu.be/CNNeD9oT4DY
+3. Object interaction system https://youtu.be/THmW4YolDok
+4. Getting text input https://youtu.be/guelZvubWFY
+5. VR keyboard https://youtu.be/PyKW9kecyqg, https://youtu.be/jJnjpU_rKKQ
+
+Weekend To-Do:
+1. MVP narration recording (important element of immersion and storytelling)
+2. Unity START!!!
+
 # Week 7
 
 ## Revised Paper
