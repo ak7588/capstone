@@ -55,12 +55,12 @@ Weekend To-Do:
 
 ### Rough Schedule:
 
-by Nov 1 - Narration MVP
-by Nov 8 - Begin drafting the first scene
-by Nov 15 - First scene MVP + Oculus testing
-by Nov 22 - Begin adding interactions
-by Nov 29 - MVP testing interactions
-by Dec 6 - continue refining the basic flow
+- by Nov 1 - Narration MVP
+- by Nov 8 - Begin drafting the first scene
+- by Nov 15 - First scene MVP + Oculus testing
+- by Nov 22 - Begin adding interactions
+- by Nov 29 - MVP testing interactions
+- by Dec 6 - continue refining the basic flow
 
 
 # Week 7
