@@ -53,6 +53,16 @@ Weekend To-Do:
 2. Unity START!!!
 3. Can I save the data from each player and store it somewhere?
 
+### Rough Schedule:
+
+by Nov 1 - Narration MVP
+by Nov 8 - Begin drafting the first scene
+by Nov 15 - First scene MVP + Oculus testing
+by Nov 22 - Begin adding interactions
+by Nov 29 - MVP testing interactions
+by Dec 6 - continue refining the basic flow
+
+
 # Week 7
 
 ## Revised Paper
