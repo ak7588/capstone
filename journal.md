@@ -11,7 +11,7 @@ This weekend I've spent a few hours drafting my project and interactions in Unit
 ![](/media/unity-project-1.png)
 ![](/media/unity-project-2.png)
 
-While coming across these technical challenges, I began to wonder if those are the challenges that I need to solve with my Capstone. I am worried about getting trapped into solving technical difficulties instead of conveying the project's idea. My Capstone is about stories, learning & exercising self-awareness through immersion and participation -- and that can be conveyed in multiple technical experiences, perhaps in more flexible environments than VR.
+While coming across these technical challenges, I began to wonder if those are the challenges that I should choose to solve with my Capstone. I am worried about getting trapped into solving technical difficulties instead of conveying the project's idea. My Capstone is about stories, learning & exercising self-awareness through immersion and participation -- and that can be conveyed in multiple technical experiences, perhaps in more flexible environments than VR.
 
 What I think I need at this stage is:
 - Troubleshoot and discuss project again with Slavica
