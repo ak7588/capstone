@@ -8,6 +8,9 @@
 
 This weekend I've spent a few hours drafting my project and interactions in Unity. I've checked out the Oculus Quest 2 headset from the IM Lab and followed the [keyboard in VR tutorial](https://youtu.be/PyKW9kecyqg) along with remembering all of the C# coding that goes with it. Not surprisingly, after about 11 months, it was challenging to get back to the Unity learning curve, especially with all of the additional settings for VR. I've worked on one VR scene with interactions, in which the user can approach the keyboard and type, with the text displayed on the virtual screen. Apparently, this can be done in multiple ways; first, as I am doing it; and second, by using Oculus' native keyboard, which can be invoked using [this tutorial](https://stackoverflow.com/questions/67080676/opening-keyboard-while-clicking-inputfield-in-vr-oculus-quest-2-and-xrit#:~:text=Just%20add%20this%20Showkeyboard(),And%20you%20are%20done.).
 
+![](/media/unity-project-1.png)
+![](/media/unity-project-2.png)
+
 While coming across these technical challenges, I began to wonder if those are the challenges that I need to solve with my Capstone. I am worried about getting trapped into solving technical difficulties instead of conveying the project's idea. My Capstone is about stories, learning & exercising self-awareness through immersion and participation -- and that can be conveyed in multiple technical experiences, perhaps in more flexible environments than VR.
 
 What I think I need at this stage is:
