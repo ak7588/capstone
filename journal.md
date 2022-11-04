@@ -22,6 +22,7 @@ What I did:
 - [x] Created a 3D Unity scene with UI and animation script
 - [x] Exported the scene to be played on iOS device simulator
 - [x] Created account on TurboSquid.com for assets
+- [x] Added files to the repo (check the AR Build folder) 
 
 To-Do for next time:
 - [ ] Finish the first part of the AR course
