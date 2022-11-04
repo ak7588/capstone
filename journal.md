@@ -13,6 +13,12 @@ This week I'm taking [this AR course](linkedin.com/learning/ar-development-techn
 
 Process goes as follows: Unity -> Project Build -> XCode -> Phone (:0)
 
+### Oh, the excitement!
+First works in progress:
+![iPhone Unity Scene](/media/AR-build.png)
+
+
+
 # Week 9
 
 ## Question for AMA:
