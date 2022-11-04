@@ -15,9 +15,20 @@ Process goes as follows: Unity -> Project Build -> XCode -> Phone (:0)
 
 ### Oh, the excitement!
 First works in progress:
+
 ![iPhone Unity Scene](/media/AR-build.png)
 
+What I did:
+- [x] Created a 3D Unity scene with UI and animation script
+- [x] Exported the scene to be played on iOS device simulator
+- [x] Created account on TurboSquid.com for assets
 
+To-Do for next time:
+- [ ] Finish the first part of the AR course
+- [ ] Budget draft
+- [ ] More practice with the iOS part and the ARKit
+
+![iPhone Unity Scene](/media/ar-animation-build.png)
 
 # Week 9
 
