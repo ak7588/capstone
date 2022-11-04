@@ -11,6 +11,8 @@ This week I'm taking [this AR course](linkedin.com/learning/ar-development-techn
 - Vuforia
 - SparkAR
 
+Process goes as follows: Unity -> Project Build -> XCode -> Phone (:0)
+
 # Week 9
 
 ## Question for AMA:
