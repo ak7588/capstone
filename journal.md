@@ -2,6 +2,15 @@
 
 ---
 
+# Week 10
+
+## Researching AR
+
+This week I'm taking [this AR course](linkedin.com/learning/ar-development-techniques-01-basic-concepts/) on LinkedIn learning to explore an interactive AR book avenue for the project. Compatible software for Apple devices:
+- ARKit
+- Vuforia
+- SparkAR
+
 # Week 9
 
 ## Question for AMA:
