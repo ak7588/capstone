@@ -4,6 +4,11 @@
 
 # Week 10
 
+## App Demo's!
+
+![iPhone Unity Scene](/media/ar-app.gif)
+![iPhone Unity Scene](/media/capstone.png)
+
 ## Post-AR Reflections:
 
 It's so much fun! Taking a short course was beneficial for both (1) Unity practice and remembering all of its features, and (2) learning AR and XCode integration. I feel hopeful and grateful about the opportunity to use Capstone funding for the things that I haven't done before, i.e. AR development and journal/book creation, as compared to developing another VR application. Let me explore this option further this weekend and see where it takes me!
@@ -21,6 +26,7 @@ Process goes as follows: Unity -> Project Build -> XCode -> Phone (:0)
 First works in progress:
 
 ![iPhone Unity Scene](/media/AR-build.png)
+![iPhone Unity Scene](/media/course.png)
 
 What I did:
 - [x] Created a 3D Unity scene with UI and animation script
