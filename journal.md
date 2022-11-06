@@ -7,7 +7,6 @@
 ## App Demo's!
 
 ![iPhone Unity Scene](/media/ar-app.gif)
-
 ![iPhone Unity Scene](/media/unity.gif)
 
 ![iPhone Unity Scene](/media/course.png)
