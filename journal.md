@@ -4,7 +4,7 @@
 
 # Week 10
 
-## Exploring (AR) children's books...
+## Exploring education technology children's books...
 
 I stopped by the IM lab today to work on a project for another class and have luckily come across Ivory Lee's cookbook and some other exciting books that the lab monitors were about to throw away! (What?!) Among them, I found the booklet for the Abu Dhabi Ideas Weekend 2018 and a bunch of children's educational books from the Karkhana Initiative. I saw those and couldn't stop flippiing through them and getting more insights for my research.
 
