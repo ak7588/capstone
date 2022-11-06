@@ -7,7 +7,10 @@
 ## App Demo's!
 
 ![iPhone Unity Scene](/media/ar-app.gif)
-![iPhone Unity Scene](/media/capstone.png)
+
+![iPhone Unity Scene](/media/unity.png)
+
+![iPhone Unity Scene](/media/course.png)
 
 ## Post-AR Reflections:
 
