@@ -4,6 +4,18 @@
 
 # Week 10
 
+## Exploring (AR) children's books...
+
+I stopped by the IM lab today to work on a project for another class and have luckily come across Ivory Lee's cookbook and some other exciting books that the lab monitors were about to throw away! (What?!) Among them, I found the booklet for the Abu Dhabi Ideas Weekend 2018 and a bunch of children's educational books from the Karkhana Initiative. I saw those and couldn't stop flippiing through them and getting more insights for my research.
+
+Some of the questions that arised as I was reading the books:
+- When teams of designers and educators were making those books, did they take the audience into account? Have they tested them before?
+- If so, how did kids react? Did this stuff really engage them in learning?
+- For the books that don't have the age group specified, what audience's age did it consider?
+- Lastly, I can easily imagine each of them being more engaging and interactive (especially the science books!) with mixed reality. Just imagine reading about an experiment and then performing it in AR or seeing it come to live without needing to spend additional resources on (sometimes) heavy/inaccessible equipment!
+
+I will keep reading through and getting ideas from those. Will update you on where it takes me!
+
 ## App Demo's!
 
 I have completed the LinkedIn Learning AR course and am happy to share the progress:
