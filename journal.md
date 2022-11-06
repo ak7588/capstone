@@ -6,10 +6,12 @@
 
 ## App Demo's!
 
+I have completed the LinkedIn Learning AR course and am happy to share the progress:
+
 ![iPhone Unity Scene](/media/ar-app.gif)
 ![iPhone Unity Scene](/media/unity.gif)
 
-![iPhone Unity Scene](/media/course.png)
+I created two Unity scenes (the first app demo is above and the second one is below), then exported them into XCode, and then hap an opportunity to export that either into my iPhone or device simulator on Mac. This all looks extremely fun and also not entirely new as I have used Unity before, so moderately challenging!
 
 ## Post-AR Reflections:
 
