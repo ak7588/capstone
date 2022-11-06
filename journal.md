@@ -39,9 +39,9 @@ What I did:
 - [x] Added files to the repo (check the AR Build folder) 
 
 To-Do for next time:
-- [ ] Finish the first part of the AR course
+- [x] Finish the first part of the AR course
 - [ ] Budget draft
-- [ ] More practice with the iOS part and the ARKit
+- [x] More practice with the iOS part and the ARKit
 
 ![iPhone Unity Scene](/media/ar-animation-build.png)
 
