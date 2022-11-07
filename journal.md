@@ -4,6 +4,14 @@
 
 # Week 10
 
+## Elevator Pitch
+
+In my Capstone, I am interested in exploring the topics of developing self-awareness skills through immersive technology. With the use of mixed reality and Unity, I intend to create a digital story that takes a person on a learning adventure and prompts to reflect and journal at the end.
+
+## Budget Draft
+
+Access [here](https://docs.google.com/spreadsheets/d/1wMKmMN8XcIAWAY4fyRhDEI2DbxHBaqgY/edit?usp=sharing&ouid=108294349221841699767&rtpof=true&sd=true).
+
 ## Exploring education technology children's books...
 
 I stopped by the IM lab today to work on a project for another class and have luckily come across Ivory Lee's cookbook and some other exciting books that the lab monitors were about to throw away! (What?!) Among them, I found the booklet for the Abu Dhabi Ideas Weekend 2018 and a bunch of children's educational books from the Karkhana Initiative. I saw those and couldn't stop flippiing through them and getting more insights for my research.
