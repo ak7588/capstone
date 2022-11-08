@@ -9,9 +9,10 @@
 In my Capstone, I am interested in exploring the topics of developing self-awareness skills through immersive technology. With the use of mixed reality and Unity, I intend to create a digital story that takes a person on a learning adventure and prompts to reflect and journal at the end. I am investigating how an immersive experience, namely an augmented reality narrative, has capacity to foster a poetic/cinematic experience, in which emotional education becomes a by-product of interaction and immersion. I intend to use immersive sound, storytelling, and elements of play to convey this theme.
  
 
-## Budget Draft
+## Budget + Plan Draft
 
-Access [here](https://docs.google.com/spreadsheets/d/1wMKmMN8XcIAWAY4fyRhDEI2DbxHBaqgY/edit?usp=sharing&ouid=108294349221841699767&rtpof=true&sd=true).
+Access budget [here](https://docs.google.com/spreadsheets/d/1wMKmMN8XcIAWAY4fyRhDEI2DbxHBaqgY/edit?usp=sharing&ouid=108294349221841699767&rtpof=true&sd=true).
+Access planning draft [here](https://docs.google.com/spreadsheets/d/1P_I0XYq6-4NpeSPrvVDrXZUWy1X2qTYh/edit?usp=sharing&ouid=108294349221841699767&rtpof=true&sd=true).
 
 ## Exploring education technology children's books...
 
