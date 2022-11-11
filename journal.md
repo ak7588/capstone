@@ -2,6 +2,23 @@
 
 ---
 
+# Week 11
+
+It's Week 11...crazy!
+
+I've been doing some more AR practice in Unity this week. Here's one of the scenes I created:
+
+![]()
+
+The scene instantiates objects on tap, and that made me wonder if similar logic allows drawing in AR possible? If so, this can be something I look into after rolling out the basic features and scenes in my Capstone.
+
+## Budget
+
+In terms of the budget, Prof. Slavica gave great points about looking into buying QR generating software license, as the free ones tend to expire quickly. Sound and audio libraries is also something that might come up in the process. Before Tuesday, I should look more closely into:
+- specific assets and physics
+- qr software
+- sound libraries
+
 # Week 10
 
 ## Elevator Pitch
