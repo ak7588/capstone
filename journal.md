@@ -6,6 +6,8 @@
 
 It's Week 11...crazy!
 
+## Making
+
 I've been doing some more AR practice in Unity this week. Here's one of the scenes I created:
 
 ![]()
@@ -18,6 +20,12 @@ In terms of the budget, Prof. Slavica gave great points about looking into buyin
 - specific assets and physics
 - qr software
 - sound libraries
+
+## AR Research Continued
+
+Upon continuing my research, I was really surprised to see that AR children's books are not trending on YouTube's algorithms. The most popular and recent ones are dated 3-4 years back? Why is that?
+
+![](/media/youtube-search.png)
 
 # Week 10
 
