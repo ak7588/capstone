@@ -12,6 +12,7 @@ It's Week 11...crazy!
 
 Possible issues identified: downgrade to 4.2.6 versions of ARKit and ARFoundation in Unity.
 Solution: update Xcode on iMac.
+Source: https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.2/changelog/CHANGELOG.html
 
 ## Making
 
