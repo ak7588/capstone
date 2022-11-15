@@ -10,6 +10,8 @@ It's Week 11...crazy!
 - [Untrusted Enterprise Developer on iPhone issue](https://support.workeq.com/untrusted-enterprise-developer)
 - [Black screen Unity AR Foundation - camera not working](https://stackoverflow.com/questions/71895548/black-screen-unity-ar-foundation-camera-not-working)
 
+Possible issues identified: downgrade to 4.2.6 versions of ARKit and ARFoundation in Unity.
+
 ## Making
 
 Learning of the week: Consistency is key. 
