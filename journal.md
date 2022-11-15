@@ -2,6 +2,10 @@
 
 ---
 
+# Week 12
+- final paper + presentation
+- budget
+
 # Week 11
 
 It's Week 11...crazy!
