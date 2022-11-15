@@ -8,11 +8,19 @@ It's Week 11...crazy!
 
 ## Making
 
+Learning of the week: Consistency is key. 
+
 I've been doing some more AR practice in Unity this week. Here's one of the scenes I created:
 
-![]()
+![](/media/week-11.png)
 
 The scene instantiates objects on tap, and that made me wonder if similar logic allows drawing in AR possible? If so, this can be something I look into after rolling out the basic features and scenes in my Capstone.
+
+Unfortunately, there is a bug somewhere in the system that I am yet to solve to test on a device. Seems like a camera is not starting up on my phone, so I am unable to test that. However, this weekend I will get myself full on practicing more AR and debugging, so hopefully that will be out of the way!
+
+And a settings reminder to myself:
+
+![](/media/xcode-settings.png)
 
 ## Budget
 
