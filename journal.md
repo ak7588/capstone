@@ -14,6 +14,10 @@ Possible issues identified: downgrade to 4.2.6 versions of ARKit and ARFoundatio
 Solution: update Xcode on iMac.
 Source: https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.2/changelog/CHANGELOG.html
 
+````
+You are now required to build iOS players with Xcode 14.0 or newer, a necessary requirement to support iOS 16 devices. Please note that Xcode no longer supports building iOS projects with deployment targets for the armv7 and armv7s architectures.
+````
+
 ## Making
 
 Learning of the week: Consistency is key. 
