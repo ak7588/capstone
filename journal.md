@@ -10,6 +10,8 @@
 
 It's Week 11...crazy!
 
+![](/media/plane-ar.gif)
+
 ## AR Debugging 101:
 - [Untrusted Enterprise Developer on iPhone issue](https://support.workeq.com/untrusted-enterprise-developer)
 - [Black screen Unity AR Foundation - camera not working](https://stackoverflow.com/questions/71895548/black-screen-unity-ar-foundation-camera-not-working)
