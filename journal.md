@@ -5,6 +5,7 @@
 # Week 12
 - final paper + presentation
 - budget
+- to-read: https://fsstudio.com/ar-and-vr-in-education-how-are-kids-learning-better-with-immersive-experiences/
 
 # Week 11
 
