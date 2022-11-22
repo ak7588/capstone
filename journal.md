@@ -3,8 +3,8 @@
 ---
 
 # Week 12
-- final paper + presentation
-- budget
+- [final paper](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing) + [presentation](https://docs.google.com/presentation/d/1h_YWVdZJ8y8nihlqCL_BJ1np3v7kP9AybfErnURPGig/edit?usp=sharing)
+- budget (to be submitted)
 - to-read: https://fsstudio.com/ar-and-vr-in-education-how-are-kids-learning-better-with-immersive-experiences/
 
 # Week 11
