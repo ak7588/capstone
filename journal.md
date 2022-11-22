@@ -7,6 +7,13 @@
 - budget (to be submitted)
 - to-read: https://fsstudio.com/ar-and-vr-in-education-how-are-kids-learning-better-with-immersive-experiences/
 
+Free animations and graphics:
+- Figma community by Alzea
+- getillustrations.com by Blue Ill
+- opendoodles.com by Pablo Stanley
+- notioly.com by Mary Amato
+- wannathis.one by Wannathis
+
 # Week 11
 
 It's Week 11...crazy!
