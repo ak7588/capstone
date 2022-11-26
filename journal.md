@@ -4,6 +4,10 @@
 
 # Week 13
 
+- [Revised Final Paper](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing)
+- [Revised Final Presentation](https://docs.google.com/presentation/d/1h_YWVdZJ8y8nihlqCL_BJ1np3v7kP9AybfErnURPGig/edit?usp=sharing)
+
+To check:
 - image recognition tutorial: https://www.youtube.com/watch?v=o_z_Eb8Yh2g&ab_channel=DineshPunni
 
 # Week 12
