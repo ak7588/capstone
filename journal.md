@@ -2,6 +2,15 @@
 
 ---
 
+# Week 14
+Feedback:
+- how the story informs AR
+- the main focus/intro was a bit unclear
+- how the final experience is delivered w audio/visuals
+- guest-book and explanation of interactions / storybook
+- which artists informed, positioning of myself, collective knowledge (?) more in detail, what is the role of the audience
+- proof of concept
+
 # Week 13
 
 - [Revised Final Paper](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing)
