@@ -2,6 +2,18 @@
 
 ---
 
+# Week 14.1: January 8th, 2023
+
+Happy new year! I am back from the winter break with exciting updates for my Capstone project.
+
+i) There've been some updates to the storyline. I have added the missing scenes and details to the initial script. Now the story is more cohesive with the title - The World Within - and is based on a character's life journey. The journaling prompts at the end are also more clearer now.
+
+ii) I am currently doing research on how to animate scenes with AR. Google suggests using Unty's AR Image Recognition Tracker, but some results also suggest Vuforia. I am unsure about Vuforia for now, but will keep iterating on Unity.
+
+iii) I have started a course on LinkedIn learning on book illustration and have set up a coffee chat with a student who managed to publish a children's book in the UAE. Hoping to get more insight on how to illustrate and publish mine!
+
+Let's goo!
+
 # Week 14
 Feedback:
 - how the story informs AR
