@@ -2,6 +2,15 @@
 
 ---
 
+# Week 14.2: January 13th, 2023
+
+What other book page formats are possible to animate in AR?
+- Wood printing
+- Laser printing
+
+What is different? 
+- interactive and immersive journaling; people might be more prone do it compared to usual journals
+
 # Week 14.1: January 8th, 2023
 
 Happy new year! I am back from the winter break with exciting updates for my Capstone project.
