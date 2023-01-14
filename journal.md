@@ -2,7 +2,19 @@
 
 ---
 
-# Week 14.2: January 13th, 2023
+# Week 14.2: January 13-14th, 2023
+
+Prototype aka Working with Image Tracking:
+
+![](/media/jan-14.gif)
+
+- completed image recognition tracking training on LinkedIn Learning
+- above seems limited in terms of recognizing an image and just placing a prefab on top of it; no space to add scenes or animations, which leads me to make a decision:
+
+**focus on animations** and go for using Unity AR tools like Vuforia and Artivive, or
+**focus on technical aspects** and see how Unity with no additional frameworks can help.
+
+My intuition tells me to check Vuforia, which is what I'll do next.
 
 What other book page formats are possible to animate in AR?
 - Wood printing
