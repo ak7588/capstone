@@ -2,7 +2,15 @@
 
 ---
 
-# Week 14.2: January 13-14th, 2023
+# Week 14.2:
+
+## Jan 15th, 2023
+
+Leaving links to AR book implementations I liked the most:
+- https://www.youtube.com/watch?v=F2ieduC3wCI
+- https://www.youtube.com/watch?v=NT_YBTyMN_4
+
+## January 13-14th, 2023
 
 Prototype aka Working with Image Tracking:
 
