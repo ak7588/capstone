@@ -10,6 +10,21 @@ Leaving links to AR book implementations I liked the most:
 - https://www.youtube.com/watch?v=F2ieduC3wCI
 - https://www.youtube.com/watch?v=NT_YBTyMN_4
 
+Mixamo selected animations:
+- Orc Idle
+- Jump
+- Petting animal
+- Standing Idle
+- Waving Gesture
+- Sitting
+
+Character creation for Mixamo with Adobe Fuse CC:
+- https://www.youtube.com/watch?v=FrPjNYk_JQ0
+- https://www.youtube.com/watch?v=-uapfgMPoAw
+
+Vuforia AR tutorial by Unity:
+- https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7
+
 ## January 13-14th, 2023
 
 Prototype aka Working with Image Tracking:
