@@ -2,6 +2,11 @@
 
 ---
 
+# Jan 22nd:
+
+Sound resources:
+- https://freesound.org/people/Robinhood76/sounds/58244/
+
 # Week 14.2:
 
 ## Jan 15th, 2023
