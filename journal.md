@@ -2,6 +2,27 @@
 
 ---
 
+# Spring Semester
+
+# Week 1
+
+Exhibition space:
+
+I plan to have a wall-space (approx 2x2 meters) with a small pedestal to showcase the book and hold iPad/iPhone to see the AR animations.
+I will hang some AR posters on the wall and will place the printed copy on the table/rectangle space for visitors to see.
+
+SketchUp Sketch:
+
+![/media/sketchup.png]()
+
+Real-life example:
+
+![/media/IMG-9191.jpg]()
+
+---
+
+# J-term
+
 # Jan 22nd:
 
 Sound resources:
