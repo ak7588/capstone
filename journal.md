@@ -28,6 +28,9 @@ Real-life example:
 Sound resources:
 - https://freesound.org/people/Robinhood76/sounds/58244/
 
+Cool read:
+- https://archive.nytimes.com/www.nytimes.com/news/the-lives-they-lived/2013/12/21/red-burns/
+
 # Week 14.2:
 
 ## Jan 15th, 2023
