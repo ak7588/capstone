@@ -13,11 +13,11 @@ I will hang some AR posters on the wall and will place the printed copy on the t
 
 SketchUp Sketch:
 
-![/media/sketchup.png]()
+![/media/sketchup.png](/media/sketchup.png)
 
 Real-life example:
 
-![/media/IMG-9191.jpg]()
+![/media/IMG-9191.jpg](/media/IMG-9191.jpg)
 
 ---
 
