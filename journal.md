@@ -4,6 +4,23 @@
 
 # Spring Semester
 
+# Week 2
+
+## Making
+
+Current progress:
+- [x] Book MVP
+- [x] Chapter-1 illustrations, audio, and AR animations
+- [x] Chapter-2 audio
+
+In progress:
+- Chapter-2 AR. Exploring packages and resolving bugs
+
+To-Do:
+- Ch. 2-10 illustrations
+- Ch. 3-10 audio
+- Ch. 3-10 AR scenes
+
 # Week 1
 
 Exhibition space:
