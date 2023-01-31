@@ -11,11 +11,11 @@
 Current progress:
 - [x] Book MVP
 
-![](/media/book-mvp.PNG)
+![](/media/book-mvp.png)
 
 - [x] Chapter-1 illustrations, audio, and AR animations
 
-![](/media/ch1.PNG)
+![](/media/ch1.png)
 
 - [x] Chapter-2 audio
 
