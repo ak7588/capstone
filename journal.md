@@ -8,6 +8,8 @@
 
 ## Making
 
+I have spent a big chunk of this week to do a book MVP and chapter MVP (example of AR, sound, and animations). The end result ended up looking like this: a video demo link. To make this happen, I used Adobe inDesign for book prototyping. There, I added a dyslexia-friendly font to add accessibility into the project. I drew illustrations on my iPad using Procreate software. On the AR side, I am using Vuforia and Unity to make everything move, animate, and be in 3D. Below are a few screenshot examples.
+
 Current progress:
 - [x] Book MVP
 
