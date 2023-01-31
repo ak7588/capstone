@@ -30,7 +30,9 @@ To-Do:
 - [ ] Ch. 3-10 AR scenes
 
 Resources for AR scenes:
-- https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733
+- Ultimate pack: https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733
+- People: https://assetstore.unity.com/packages/3d/characters/humanoids/low-poly-animated-people-156748
+- Animals: https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-animals-93089
 
 # Week 1
 
