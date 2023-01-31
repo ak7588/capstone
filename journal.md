@@ -25,9 +25,12 @@ In progress:
 - Chapter-2 AR. Exploring packages and resolving bugs
 
 To-Do:
-- Ch. 2-10 illustrations
-- Ch. 3-10 audio
-- Ch. 3-10 AR scenes
+- [ ] Ch. 2-10 illustrations
+- [ ] Ch. 3-10 audio
+- [ ] Ch. 3-10 AR scenes
+
+Resources for AR scenes:
+- https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733
 
 # Week 1
 
