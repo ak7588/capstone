@@ -4,6 +4,24 @@
 
 # Spring Semester
 
+# Week 3
+
+## Building UI Menu
+
+What happens when you forget to plan for the screen layout and dimensions?
+
+This:
+
+- Expectation:
+
+![](/media/expectation.png)
+
+- Reality 😂:
+
+![](/media/reality.PNG)
+
+Video demo: [view here](https://drive.google.com/file/d/1IK52CNPcJjBESajBlU1lsxRyONLU6jtR/view?usp=sharing).
+
 # Week 2
 
 ## Making
