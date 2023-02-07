@@ -10,18 +10,6 @@
 
 For this week's progress, I have a UI menu scene done + some updates to chapter 3 of the book (out of 10). Chapters themselves do not take that much time to get done, but I need them all together before I do the playtest of the whole project and future iterations (if I decide to add more interactions, enhancements to animations, sound, etc).
 
-Current progress:
-- [x] Chapters 1-2
-- [x] Menu UI
-- [x] Chapter 3 in-progress (illustration+AR done, sound pending) 
-
-To-Do:
-- [ ] Ch. 4-10 illustrations
-- [ ] Ch. 3-10 audio
-- [ ] Ch. 4-10 AR scenes
-- [ ] Refine UI responsiveness
-- [ ] Add more interactions once all chapters completed
-
 What happens when you forget to plan for the screen layout and dimensions?
 
 This:
@@ -35,6 +23,18 @@ This:
 ![](/media/reality.PNG)
 
 Video demo: [view here](https://drive.google.com/file/d/1IK52CNPcJjBESajBlU1lsxRyONLU6jtR/view?usp=sharing).
+
+Current progress:
+- [x] Chapters 1-2
+- [x] Menu UI
+- [x] Chapter 3 in-progress (illustration+AR done, sound pending) 
+
+To-Do:
+- [ ] Ch. 4-10 illustrations
+- [ ] Ch. 3-10 audio
+- [ ] Ch. 4-10 AR scenes
+- [ ] Refine UI responsiveness
+- [ ] Add more interactions once all chapters completed
 
 # Week 2
 
