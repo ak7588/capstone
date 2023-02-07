@@ -10,6 +10,8 @@
 
 For this week's progress, I have a UI menu scene done + some updates to chapter 3 of the book (out of 10). Chapters themselves do not take that much time to get done, but I need them all together before I do the playtest of the whole project and future iterations (if I decide to add more interactions, enhancements to animations, sound, etc).
 
+I also did a draft design of the front book page according to the menu and AR design.
+
 What happens when you forget to plan for the screen layout and dimensions?
 
 This:
