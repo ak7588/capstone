@@ -4,6 +4,16 @@
 
 # Spring Semester
 
+# Week 4
+
+- [x] Added Home button functionality
+- [x] Added responsiveness to the UI
+- [x] Finished the script/conceptual framework
+
+- [ ] Fix Ch3 illustration (make more profound from Ch2)
+- [ ] Add Ch4-10 illustrations + sound + AR
+- [ ] Fix Ch1 AR (make consistent with text and sound)
+
 # Week 3
 
 ## Building UI Menu
