@@ -6,10 +6,12 @@
 
 # Week 4
 
+Progress:
 - [x] Added Home button functionality
 - [x] Added responsiveness to the UI
 - [x] Finished the script/conceptual framework
 
+Pending:
 - [ ] Fix Ch3 illustration (make more profound from Ch2)
 - [ ] Add Ch4-10 illustrations + sound + AR
 - [ ] Fix Ch1 AR (make consistent with text and sound)
