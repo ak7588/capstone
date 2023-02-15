@@ -21,6 +21,8 @@ P.S. Most of the updates now are happening in the iPad app. I will include some 
 
 ![](/media/mvp.JPG)
 
+PDF prototype: [click this link.](https://drive.google.com/file/d/1b1OL1DAj4rcsVy79v7Dd6xScTcFIxtLJ/view?usp=sharing)
+
 # Week 4
 
 Progress:
