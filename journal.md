@@ -4,6 +4,19 @@
 
 # Spring Semester
 
+# Week 5
+- [x] Recorded all of the sounds
+- [x] Illustrated all of the chapters
+- [x] Finished AR for chapters 1-6
+
+Pending:
+- [ ] Printing laminated A4 / cards to test the format instead of the book
+- [ ] Chapter 9 technical functionality
+- [ ] Polishing AR animations for chapters 1-6
+- [ ] Adding AR for chapters 7,8
+
+P.S. Most of the updates now are happening in the iPad app. I will include some video demos and screenshots as proofs. I show the app updates weekly to my advisor.
+
 # Week 4
 
 Progress:
