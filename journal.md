@@ -17,6 +17,10 @@ Pending:
 
 P.S. Most of the updates now are happening in the iPad app. I will include some video demos and screenshots as proofs. I show the app updates weekly to my advisor.
 
+![](/media/feb-15.png)
+
+![](/media/mvp.JPG)
+
 # Week 4
 
 Progress:
