@@ -4,6 +4,17 @@
 
 # Spring Semester
 
+# Week 6
+
+I have figured out what I want to do with the last chapter of my project / participation part. All users will be able to send emails to themselves at the end of the book experience. To do that, I have imported MailKit and MimeKit into my Unity project. I have used SMTP functionality in Outlook to be able to send emails directly from Unity.
+
+Idea:
+- Users will write a message and their email
+- Users will customize a planet
+- Their planet image and text will be sent to their address
+
+In addition to that, I have finilized MVP for all chapters and will now improve this last part's UX before finally doing the official user-tests!
+
 # Week 5
 - [x] Recorded all of the sounds
 - [x] Illustrated all of the chapters
