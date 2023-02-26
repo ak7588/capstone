@@ -6,6 +6,26 @@
 
 # Week 6
 
+It is week 6, ladies and gentlement! And I am finally-FINALLY done with my minimum viable capstone! :D
+
+Over the past 2 weeks I've finished all of the basic animation flows, illustrations, and audio narrations. Everything is packed into the iOS app for iPad. Now is the time to get feedback, refine, and improve! Let's gooooo
+
+A few concerns before the round of user-testing:
+- Do animations correspond to the illustration and narration in the book?
+- Does the sound convey the full story I am intending to tell?
+- Is the app experience / UX of the project intuitive enough?
+- Should I prepare coloring books and journaling spaces for people to participate at the end?
+
+A few improvements that are still pending and are more of "nice-to-have":
+- [ ] Add audio effects like folding/opening paper
+- [ ] Fix people animations and make them more defined
+- [ ] Make the transition from letters back to real world more profound
+- [ ] Print and test on laminated sheets!!!
+- [ ] And anything else that comes up in user-testing
+
+---
+
+Some of the notes this week:
 
 _Update:_ and...the below did not work. Apparently sending emails through an AR iOS app causes a whole lot of build errors outside of the editor. I suspect that some of the packages (pointing at MimeKit and MailKit) just don't work with iOS. So I am considering other participation options. Perhaps I should go back to the idea of paper/pen participation and just leave an option to place a custom planet at the last scene with no mail interaction.
 
