@@ -6,6 +6,10 @@
 
 # Week 6
 
+_Update:_ and...the below did not work. Apparently sending emails through an AR iOS app causes a whole lot of build errors outside of the editor. I suspect that some of the packages (pointing at MimeKit and MailKit) just don't work with iOS. So I am considering other participation options. Perhaps I should go back to the idea of paper/pen participation and just leave an option to place a custom planet at the last scene with no mail interaction.
+
+---
+
 I have figured out what I want to do with the last chapter of my project / participation part. All users will be able to send emails to themselves at the end of the book experience. To do that, I have imported MailKit and MimeKit into my Unity project. I have used SMTP functionality in Outlook to be able to send emails directly from Unity.
 
 Idea:
