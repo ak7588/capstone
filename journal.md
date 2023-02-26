@@ -6,7 +6,16 @@
 
 # Week 6
 
+
 _Update:_ and...the below did not work. Apparently sending emails through an AR iOS app causes a whole lot of build errors outside of the editor. I suspect that some of the packages (pointing at MimeKit and MailKit) just don't work with iOS. So I am considering other participation options. Perhaps I should go back to the idea of paper/pen participation and just leave an option to place a custom planet at the last scene with no mail interaction.
+
+P.S. I am very bad at documenting my failures on time...I usually fix the error and forget to document it or do something else and again forget to write about it. Here are the pictures at least:
+
+![](/media/send-email-code.png)
+
+![](/media/email-received.png)
+
+After that I had to stash my changes and delete installed packages for the app to build and run again.
 
 ---
 
