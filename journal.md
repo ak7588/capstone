@@ -45,6 +45,11 @@ Given these suggestions, I decided to move forward with the following format for
 
 ![](/media/user-testing.JPG)
 
+## Printing notes
+
+- Can print A5 cards in the library
+- Will print the books at Desco
+
 ## Making
 
 It is week 6, ladies and gentlement! And I am finally-FINALLY done with my minimum viable capstone! :D
