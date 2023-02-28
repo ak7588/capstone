@@ -4,7 +4,7 @@
 
 # Spring Semester
 
-# Week 6
+# Week 6: Feb 21-28
 
 It is week 6, ladies and gentlement! And I am finally-FINALLY done with my minimum viable capstone! :D
 
@@ -48,7 +48,7 @@ Idea:
 
 In addition to that, I have finilized MVP for all chapters and will now improve this last part's UX before finally doing the official user-tests!
 
-# Week 5
+# Week 5: Feb 14-21
 - [x] Recorded all of the sounds
 - [x] Illustrated all of the chapters
 - [x] Finished AR for chapters 1-6
@@ -67,7 +67,7 @@ P.S. Most of the updates now are happening in the iPad app. I will include some 
 
 PDF prototype: [click this link.](https://drive.google.com/file/d/1b1OL1DAj4rcsVy79v7Dd6xScTcFIxtLJ/view?usp=sharing)
 
-# Week 4
+# Week 4: Feb 14
 
 Progress:
 - [x] Added Home button functionality
@@ -80,7 +80,7 @@ Pending:
 - [ ] Add Ch4-10 illustrations + sound + AR
 - [ ] Fix Ch1 AR (make consistent with text and sound)
 
-# Week 3
+# Week 3: Feb 7
 
 ## Building UI Menu
 
@@ -114,7 +114,7 @@ To-Do:
 - [ ] Refine UI responsiveness
 - [ ] Add more interactions once all chapters completed
 
-# Week 2
+# Week 2: Jan 31 - Feb 7
 
 ## Making
 
@@ -144,7 +144,7 @@ Resources for AR scenes:
 - People: https://assetstore.unity.com/packages/3d/characters/humanoids/low-poly-animated-people-156748
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-animals-93089
 
-# Week 1
+# Week 1 - due Jan 31
 
 Exhibition space:
 
