@@ -37,7 +37,9 @@
 
 After completing the experience, participants were surveyed if they would stay to write down an encouraging letter to themselves or others. All of them noted that they would, although the length differed. Some described they would write something really short and leave (a few words to a sentence), while some wanted some dedicated time (5-10 minutes) to reflect at the end.
 
-Given these suggestions, I decided to move forward with the following format of exit-participation. I will design postcards that will have space for 1-2 sentences to write. The card design will be similar to that of a coloring book, so that each participant could customize their design if they wish to do so. I will purchase coloring pens and pencils and might print out small stickers to be placed on the card. After that, participants will have an option to display their card anonymously on the exhibition wall to create a wall with kind and encouraging messages related to the theme of the book.
+Given these suggestions, I decided to move forward with the following format for exit-participation. I will design postcards that will have space for 1-2 sentences to write. The card design will be similar to that of a coloring book, so that each participant could customize their design if they wish to do so. I will purchase coloring pens and pencils and might print out small stickers to be placed on the card. After that, participants will have an option to display their card anonymously on the exhibition wall to create a wall with kind and encouraging messages related to the theme of the book.
+
+![](/media/user-testing.JPG)
 
 ## Making
 
