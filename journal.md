@@ -8,7 +8,11 @@
 
 ## User-testing
 
-**Testers**: Aiya, Indira, Seoyoung, Dhabia, Joseph
+**Testers**: Dr. Vedrana (!), Aiya, Indira, Seoyoung, Dhabia, Joseph
+
+Before I talk about everything else, I wanted to recognize that I had a real therapist from the NYUAD Health Center test my Capstone and comment on the concept -- thank you, Dr. Vedrana! Because the concept of my capstone is loosely related to well-being and mindfulness, it was important for me to get some feedback from a field professional to make sure I am not creating bluff. To my relief, the feedback was great and the journaling prompt at the end is very on-point for my purpose. I will now try to work with the Health Center to see if we could collaborate in March to promote journaling among the NYUAD community!
+
+/ Back to user-testing /
 
 **Procedure**: All of the participants were given an iPad and a book prototype. They were instructed to use the iPad to augment the book experience. No context or project descriptions were given outside of that. Participants were free to view the content in horizontal or vertical modes. They were also free to move in space (360*) or remain sitted. After
 
