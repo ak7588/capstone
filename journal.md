@@ -4,6 +4,24 @@
 
 # Spring Semester
 
+# Week 7: Mar 1-7
+
+## Software Updates:
+
+- [x] Added LeanTouch lib
+- [x] Added sound for paper unfolding
+- [x] Added pinching and dragging paper crane size when calling to action to read the letter
+
+## General thoughts and reflections:
+
+I can improve the technical functionality later on, since very little depends on images there. BUT, I need to start thinking about printing / finalizing graphical stuff by the end of next week, as I will only have so much time to finish technical parts during spring break.
+
+## To-Do before Tuesday:
+- [ ] Finish card design
+- [ ] Print around 5-10 cards for user-testing
+- [ ] Research printing options for the book
+- [ ] Start prepping the book for printing  
+
 # Week 6: Feb 21-28
 
 ## User-testing
