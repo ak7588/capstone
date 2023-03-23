@@ -17,6 +17,17 @@ For next Tuesday's class, the goal is to have my advisor give some feedback on t
 
 I also still have to go print the book. Wasn't able to do that due to final touches to the illustrations and text. Estimated deadline: by April 1st-5th.
 
+---
+
+## Some feedback notes for myself
+
+Letter UX:
+- It's not obvious when it starts --> the design, audio and visuals do change; but the text itself and the illustrations are unclear.
+- Diversifying journaling promots? "What words of encouragement would you say to your younger self?" --> Could be something that more students can relate to / depending on the age and context. For example:
+  - What words of encouragement would you give to a friend at the beginning of the semester?
+  - What words of support would you say to yourself before entering college?
+  - Perhaps make the responses digital. Ask Katie about the server and input/output. What if the app would take them there after the last experience? That would add more interactivity AND be more sustainable/cohesive for the project overall.
+
 # Week 7: Mar 1-7
 
 ## Software Updates:
