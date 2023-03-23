@@ -4,6 +4,19 @@
 
 # Spring Semester
 
+# Spring Break and User Testing
+
+Over the spring break, I had a chance to get some advanced user-testing feedback from fellow students, health center professionals at NYUAD, as well as MY FUTURE GRAD SCHOOL PEERS and ADVISOR (what?!). Some overlapping themes were adding more interactivity onto the app screen with lean touch, rendering/baking the light properly into the scene (so it doesn't lag in the app), and participation UX.
+
+As there is only three weeks into the project left, I will prioritize:
+- improving lean touch
+- fixing last animation and storytelling bugs
+- writing the paper
+
+For next Tuesday's class, the goal is to have my advisor give some feedback on the paper + app functionality.
+
+I also still have to go print the book. Wasn't able to do that due to final touches to the illustrations and text. Estimated deadline: by April 1st-5th.
+
 # Week 7: Mar 1-7
 
 ## Software Updates:
