@@ -4,7 +4,23 @@
 
 # Spring Semester
 
-## Updates Paper
+## Week 9, due April 4th - More Making
+
+I found myself browsing the internet at 2 AM in the morning, waiting to close my fast this Ramadan when I came across Notion forms... Fast-forward, I've spent exactly 30 minutes, and...now I have a mini-server that I do not even have to maintain to create a public archive for my Capstone journaling responses! Yay!
+
+The form is accessible to view here: https://notionforms.io/forms/a-sentence-for-your-inner-child
+And I am yet to create a visual output for the responses, though it will probably be designed in the theme of my Capstone.
+
+Why Notion? I chose Notion because the process of response moderation and database maintanance is suuuuper easy and straightforward. I do not have to constantly run my own server in the background, don't have to use a separate Google form -- all of the responses are saved automatically and can be pulled by Notion itself to a Notion-based web-page...isn't it just great?!
+
+Here are some screenshot examples:
+
+![form](/media/form.png)
+![database](/media/database.png)
+
+I will use a Unity API to forward the participant into the URL once they finish the AR experience and will need to think of a way to display all of it when the exhibition time comes. Other than that, again, yay!
+
+## Week 8, due Mar 28th - Updated Paper & User Testing
 [Google Doc](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing)
 
 ## Spring Break and User Testing
