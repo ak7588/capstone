@@ -4,7 +4,10 @@
 
 # Spring Semester
 
-# Spring Break and User Testing
+## Updates Paper
+[Google Doc](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing)
+
+## Spring Break and User Testing
 
 Over the spring break, I had a chance to get some advanced user-testing feedback from fellow students, health center professionals at NYUAD, as well as MY FUTURE GRAD SCHOOL PEERS and ADVISOR (what?!). Some overlapping themes were adding more interactivity onto the app screen with lean touch, rendering/baking the light properly into the scene (so it doesn't lag in the app), and participation UX.
 
