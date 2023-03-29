@@ -21,6 +21,12 @@ Here are some screenshot examples:
 
 I will use a Unity API to forward the participant into the URL once they finish the AR experience and will need to think of a way to display all of it when the exhibition time comes. Other than that, again, yay!
 
+### List of pending fixes:
+- [ ] Chapter 3: Polish lean touch
+- [ ] Chapter 4: Stop any music before playing new one (from paper cranes in ch 3)
+- [ ] Astronaut animations
+- [ ] Chapter 9: remove cards part and add a button to go to the form
+
 ## Week 8, due Mar 28th - Updated Paper & User Testing
 [Google Doc](https://docs.google.com/document/d/1w4QObAJVXVTigxJ1-uqA5EBQ5lAudDxXf_65hORyUvQ/edit?usp=sharing)
 
