@@ -6,6 +6,12 @@
 
 ## Week 9, due April 4th - More Making
 
+### Updates from the below
+
+![form](/media/archive-gallery.png)
+
+--- 
+
 I found myself browsing the internet at 2 AM in the morning, waiting to close my fast this Ramadan when I came across Notion forms... Fast-forward, I've spent exactly 30 minutes, and...now I have a mini-server that I do not even have to maintain to create a public archive for my Capstone journaling responses! Yay!
 
 The form is accessible to view here: https://notionforms.io/forms/a-sentence-for-your-inner-child
