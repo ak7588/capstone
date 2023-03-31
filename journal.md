@@ -12,6 +12,7 @@
 
 To Do:
 - [ ] Edit the button to fade in/out
+  - https://stackoverflow.com/questions/39336423/fadein-fadeout-ui-button-in-unity-5 
 - [ ] Make prettier UI
 - [ ] Fix the Notion form page and gallery view UI
 
