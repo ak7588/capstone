@@ -10,6 +10,8 @@
 
 ![form](/media/archive-gallery.png)
 
+A small note on responses: I guess my assumption was that people with use this space to open up (because it's anonymous). But there still seems a barrier to that. People tend to reply in more detail on postcards on average compared to the electronic version. But that was worth trying to move things online.
+
 --- 
 
 I found myself browsing the internet at 2 AM in the morning, waiting to close my fast this Ramadan when I came across Notion forms... Fast-forward, I've spent exactly 30 minutes, and...now I have a mini-server that I do not even have to maintain to create a public archive for my Capstone journaling responses! Yay!
