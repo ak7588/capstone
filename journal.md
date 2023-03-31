@@ -6,7 +6,14 @@
 
 ## Week 9, due April 4th - More Making
 
-### Updates from the below
+### Updates on the below:
+- [x] Created a URL button on the last chapter for call to action
+- [x] Created an MVP version of the form and gallery page in Notion
+
+To Do:
+- [ ] Edit the button to fade in/out
+- [ ] Make prettier UI
+- [ ] Fix the Notion form page and gallery view UI
 
 ![form](/media/archive-gallery.png)
 
