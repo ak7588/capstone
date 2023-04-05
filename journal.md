@@ -15,6 +15,10 @@ Today I've fixed the Notion page and a form, and now it looks pretty like this:
 
 The user will be transferred to this page on the iPad, after finishing the story. I tested this with QR codes during the Health Center event and have observed the following: participants would scan the QR code even before reading the story and see the notes, which I thought kind of defeated the purpose of this shared archive. I.e. the participant is supposed to see this only _after_ reading the story, so this explains why I chose to place the button where it is.
 
+Please note that this website and journaling is not the _main_ purpose of the Capstone, so I am paying less emphasis on its design and UX, although I _do_ want it to look good and fit into the theme!
+
+I've also checked out the iPad Pro from the IM Lab, have installed my software in it, and have successfully tested the project -- all works as expected!
+
 Other than that, I am continuing writing my paper and doing the final fixes before the showcase. Let's goooo!
 
 ## Week 9, due April 4th - More Making
