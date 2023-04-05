@@ -4,6 +4,19 @@
 
 # Spring Semester
 
+## Week 10, due April 12th - Last Stretch!
+
+Hello-hello, it is the final stretch before the showcase!
+
+I am preparing my paper, which I had a major breakthrough about this week and last (thanks to my advisor!).
+
+Today I've fixed the Notion page and a form, and now it looks pretty like this:
+![form](/media/website.jpeg)
+
+The user will be transferred to this page on the iPad, after finishing the story. I tested this with QR codes during the Health Center event and have observed the following: participants would scan the QR code even before reading the story and see the notes, which I thought kind of defeated the purpose of this shared archive. I.e. the participant is supposed to see this only _after_ reading the story, so this explains why I chose to place the button where it is.
+
+Other than that, I am continuing writing my paper and doing the final fixes before the showcase. Let's goooo!
+
 ## Week 9, due April 4th - More Making
 
 ### Updates on the below:
