@@ -6,6 +6,16 @@
 
 ## Week 10, due April 12th - Last Stretch!
 
+### Capstone Journal - How am I planning to undergo message moderation / spam / profanity check in Notion database?
+
+So there is no straighforward answers. My process will be manual, but because sharing these messages is not the primary goal or my research, I have created a simple workaround. So the user submits to one Notion database, from which I just copy-paste the message (if approved -- and the approval process is very simple, I just want to make sure there are no spam texts, swearing, etc).
+
+Here is how it looks behind the scenes:
+
+![form](/media/profanity-check.png)
+
+### Weekly Blog Update
+
 Hello-hello, it is the final stretch before the showcase!
 
 I am preparing my paper, which I had a major breakthrough about this week and last (thanks to my advisor!).
