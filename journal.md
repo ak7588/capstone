@@ -33,7 +33,16 @@ Here is how it looks behind the scenes:
 
 ### Some of the ideas for future steps
 
-Change animations based on the lean touch input data. For example, when the user taps on the screen, the animation state changes from the deafult to walking to that specific touch point etc.
+- Change animations based on the lean touch input data. For example, when the user taps on the screen, the animation state changes from the deafult to walking to that specific touch point etc.
+- How do AI characters change this dynamic? Because Unity characters already have this capability
+
+### Updates on the fixes:
+
+- [ ] Chapter 3: Polish lean touch
+- [ ] Re-record sound professionally
+- [ ] Make the worlds smaller / better UX for the bigger iPad
+- [x] Astronaut animations
+- [x] Chapter 9: remove cards part and add a button to go to the form
 
 ## Week 9, due April 4th - More Making
 
