@@ -41,6 +41,7 @@ Here is how it looks behind the scenes:
 - [ ] Chapter 3: Polish lean touch
 - [ ] Re-record sound professionally
 - [ ] Make the worlds smaller / better UX for the bigger iPad
+- [ ] Draw a reply button background in illustrator
 - [x] Astronaut animations
 - [x] Chapter 9: remove cards part and add a button to go to the form
 
