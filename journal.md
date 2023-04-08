@@ -6,15 +6,7 @@
 
 ## Week 10, due April 12th - Last Stretch!
 
-### Capstone Journal - How am I planning to undergo message moderation / spam / profanity check in Notion database?
-
-So there is no straighforward answers. My process will be manual, but because sharing these messages is not the primary goal or my research, I have created a simple workaround. So the user submits to one Notion database, from which I just copy-paste the message (if approved -- and the approval process is very simple, I just want to make sure there are no spam texts, swearing, etc).
-
-Here is how it looks behind the scenes:
-
-![form](/media/profanity-check.png)
-
-### Weekly Blog Update
+### Intro
 
 Hello-hello, it is the final stretch before the showcase!
 
@@ -30,6 +22,18 @@ Please note that this website and journaling is not the _main_ purpose of the Ca
 I've also checked out the iPad Pro from the IM Lab, have installed my software in it, and have successfully tested the project -- all works as expected!
 
 Other than that, I am continuing writing my paper and doing the final fixes before the showcase. Let's goooo!
+
+### How am I planning to undergo message moderation / spam / profanity check in Notion database?
+
+So there is no straighforward answers. My process will be manual, but because sharing these messages is not the primary goal or my research, I have created a simple workaround. So the user submits to one Notion database, from which I just copy-paste the message (if approved -- and the approval process is very simple, I just want to make sure there are no spam texts, swearing, etc).
+
+Here is how it looks behind the scenes:
+
+![form](/media/profanity-check.png)
+
+### Some of the ideas for future steps
+
+Change animations based on the lean touch input data. For example, when the user taps on the screen, the animation state changes from the deafult to walking to that specific touch point etc.
 
 ## Week 9, due April 4th - More Making
 
