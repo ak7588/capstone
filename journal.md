@@ -10,7 +10,7 @@
 - [x] Fixed sizing and animations
 - [x] Polished the form
 - [x] Edited text on the last page
-- [ ] To add app image   
+- [x] Fixing a bunch of Xcode things -> changing app icon + name 
 
 ## Week 10, due April 12th - Last Stretch!
 
