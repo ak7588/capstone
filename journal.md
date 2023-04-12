@@ -4,6 +4,14 @@
 
 # Spring Semester
 
+## Pre-Installation Notes:
+
+- [x] Fixed audio
+- [x] Fixed sizing and animations
+- [x] Polished the form
+- [x] Edited text on the last page
+- [ ] To add app image   
+
 ## Week 10, due April 12th - Last Stretch!
 
 ### Intro
